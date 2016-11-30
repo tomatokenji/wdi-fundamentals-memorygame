@@ -40,6 +40,10 @@ footer{
 	clear: both;
 }
 
+.hello{
+	height:200px;
+	width:150px;
+}
 .clearfix:after{
 	visibility: hidden;
  	display: block;
